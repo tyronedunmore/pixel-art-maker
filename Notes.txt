@@ -1,0 +1,10 @@
+Problems to work on
+
+The user can create a canvas of any reasonable size. Entering whole number for grid height and width, and clicking 
+the submit button will display a black and white grid with the height and width size.
+    Add event listener to submit that creates canvas - done
+    Get canvas to continue to appear (right now it disappears immediately) - done
+    Make the gridHeight & width values (gridHeight.value) equal the amount of rows & columns when user hits submit - done 
+    when user taps submit it clears what's displayed and creates a new grid that match height and width -done 
+    allow color to fill cell not table - done
+    
